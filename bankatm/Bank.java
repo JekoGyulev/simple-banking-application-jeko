@@ -1,4 +1,7 @@
 package my_github_projects.bankatm;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Random;
 
 public class Bank {
   private String name;
