@@ -1,4 +1,8 @@
 package my_github_projects.bankatm;
+import java.security.NoSuchAlgorithmException;
+import java.util.ArrayList;
+import java.util.List;
+import java.security.MessageDigest;
 
 public class User {
   private String firstName;
